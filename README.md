@@ -1,11 +1,65 @@
-#  Dipal Katuwal ✨🌐💻
+# Hi, I'm Dipal Katuwal 👋
 
-🚀 Just a coder here, leveling up by diving into projects. Excited to soak up new knowledge and grow my skills. 
-Learning through hands-on projects, study sessions, and applying everything to tackle real-life issues. 
-Ready to turn curiosity into solutions!
+Full Stack Developer from Nepal building end-to-end web apps, ML-powered tools, and GenAI-integrated workflows.
 
-# Skills & Learning 📖:
-- Web Development
-- Pyhton
-- HTMl & CSS
-- javascript
+🌐 [dipalkatuwal.com.np]· 📧 dipalkatuwal07@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/dipalkatuwal)
+
+---
+
+## 🔧 Tech Stack
+
+**Languages**
+TypeScript · JavaScript (ES6+) · Python · SQL
+
+**Frontend**
+Next.js · React · Tailwind CSS · Shadcn UI · Framer Motion
+
+**Backend**
+Node.js · Express · Django REST Framework
+
+**Databases**
+MongoDB · PostgreSQL · MySQL
+
+**ML / AI**
+TensorFlow · Keras · LSTM · Scikit-learn · Pandas · NumPy · OpenAI API
+
+**DevOps**
+Docker · Vercel · CI/CD · Git
+
+---
+
+## 🚀 Featured Projects
+
+### [NepseSage](https://github.com/dipalkatuwal/NepseSage)
+Professional-grade NEPSE stock analysis platform — real-time market data pipeline + conversational AI layer for retail investors.
+`Next.js 15` `Express` `MongoDB` `OpenAI` `Framer Motion`
+
+### [PasalBot](https://github.com/dipalkatuwal/PasalBot)
+Chat-first e-commerce where you order with words, not forms. NLP order parsing, RBAC for 3 user roles, live updates via Socket.io.
+`MERN` `NLP` `Socket.io` `RBAC`
+
+### [NEPSE Prediction Portal](https://github.com/dipalkatuwal/NepaliSharePrediction-LSTM)
+LSTM neural network for NEPSE stock price forecasting — Python data pipeline, Flask API, and interactive React dashboard.
+`Python` `TensorFlow` `Keras` `Flask` `React`
+
+### [Sangatho](https://github.com/dipalkatuwal/sangatho)
+Hands-on exploration of Next.js App Router, server components, and modern React patterns.
+`Next.js` `Tailwind CSS` `App Router`
+
+---
+
+## 📚 Education
+
+**B.Sc. CSIT** — Mahendra Morang Adarsha Multiple Campus, Tribhuvan University, Biratnagar (2021–2026)
+
+---
+
+## 📈 GitHub Stats
+
+![Dipal's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipalkatuwal&show_icons=true&hide_border=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipalkatuwal&layout=compact&hide_border=true&theme=default)
+
+---
+
+*Open to internships, freelance projects, and collaborative builds.*
