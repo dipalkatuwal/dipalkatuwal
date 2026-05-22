@@ -54,12 +54,4 @@ Hands-on exploration of Next.js App Router, server components, and modern React 
 
 ---
 
-## 📈 GitHub Stats
-
-![Dipal's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipalkatuwal&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipalkatuwal&layout=compact&hide_border=true&theme=default)
-
----
-
 *Open to internships, freelance projects, and collaborative builds.*
